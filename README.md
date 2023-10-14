@@ -75,28 +75,7 @@ Lab2B demonstrates my ability to create a Windows Form App in C# and .NET Framew
 
 ---
 
-## What I Learned
-
-These projects showcase my proficiency in:
-
-- **Object-Oriented Programming:**
-  - Effective use of abstract classes, polymorphism, and inheritance.
-
-- **User Interaction:**
-  - Creating a console application with user prompts and a Windows Form application with an interactive GUI.
-
-- **Validation and Error Handling:**
-  - Implementing input validation to ensure data integrity.
-
-- **Code Organization:**
-  - Modularizing code for maintainability and readability.
-
-- **Version Control:**
-  - Utilizing Git for version control and collaboration.
-
----
-
-## Points for Consideration
+## Goals
 
 1. **Object-Oriented Design:**
    - Demonstrated understanding of creating and organizing classes in a hierarchy.
